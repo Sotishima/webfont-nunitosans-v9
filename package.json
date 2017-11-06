@@ -21,5 +21,21 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.1"
-  }
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sotishima/webfont-nunitosans-v9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sotishima/webfont-nunitosans-v9/issues"
+  },
+  "homepage": "https://github.com/Sotishima/webfont-nunitosans-v9#readme"
 }
