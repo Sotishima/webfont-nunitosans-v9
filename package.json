@@ -1,0 +1,25 @@
+{
+  "name": "webfont-nunitosans-v9",
+  "version": "1.0.0",
+  "description": "WebFont NunitoSans V9 with woff, and woff2 files and a css file to import",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nunitosans",
+    "v9",
+    "webfont",
+    "font"
+  ],
+  "author": "Sotishima",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1"
+  }
+}
