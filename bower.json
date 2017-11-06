@@ -1,0 +1,16 @@
+{
+  "name": "webfont-nunitosans-v9",
+  "description": "WebFont NunitoSans V9 with woff, and woff2 files and a css file to import",
+  "main": "gulpfile.js",
+  "authors": [
+    "Sotishima"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nunitosans",
+    "v9",
+    "webfont",
+    "font"
+  ],
+  "homepage": "https://github.com/Sotishima/webfont-nunitosans-v9"
+}
