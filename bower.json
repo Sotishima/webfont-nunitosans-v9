@@ -1,5 +1,6 @@
 {
   "name": "webfont-nunitosans-v9",
+  "version": "1.0.1",
   "description": "WebFont NunitoSans V9 with woff, and woff2 files and a css file to import",
   "main": "gulpfile.js",
   "authors": [
